@@ -76,5 +76,4 @@ You must have run the setup steps already.
 
 ### Program Info
 
-- MARKETPLACE: `HeSVF4eHVcaFRMzbTwAz1wrtSv66xFp6V6cHKRNAtCG4`
-- SYNC-NFT: `Lp7MMp1TTgz6PVVNHySHgGuZQGmxTo6QtZkb5mz6VJF`
+
