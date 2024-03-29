@@ -1,6 +1,6 @@
 # Submission to 2024 Solana Arcx-world
 
-day long has a highly experienced Mobile Gaming Team with over a Billion Career Downloads. We have built a simple solution that turns web2 player mobile player accounts in games into a tradable asset class.
+ArcX has a highly experienced Mobile Gaming Team with over a Billion Career Downloads. We have built a simple solution that turns web2 player mobile player accounts in games into a tradable asset class.
 
 #### Resources
 
