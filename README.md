@@ -4,10 +4,9 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 #### Resources
 
-- [Pitch deck]()
 - [Android APK Download] - in submission
-- [Sync HomePage]()
-- [Sync Twitter](_)
+- [Sync HomePage](http://arcx.world/)
+- [Sync Twitter](https://twitter.com/ArcX_games)
 
 #### Summary of Submission Features
 
