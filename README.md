@@ -56,7 +56,6 @@ To deploy Sync API locally, you will need to set up the following:
 
 - run `npm run dev` in the `app` directory
 
-Follow these directions https://reactnative.dev/docs/environment-setup but skip Creating a new application.
 
 In a terminal in the project directory run `npm install`
 
