@@ -35,8 +35,8 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 
 #### Tech Stack
-- Web3 Auth SDK: Single sign-in with Google and non-custodial signing wallet
-- Solana Unity SDK: Integration Solana Wallet Connect with Unity games
+- Web3 nodejs SDK: Single sign-in with Google and non-custodial signing wallet
+- Solana  SDK: Integration Solana Wallet Connect with
 
 ### Present Limitations/Known Issues
 
