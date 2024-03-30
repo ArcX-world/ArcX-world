@@ -34,41 +34,6 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 
 
-#### Tech Stack
-- Web3 nodejs SDK: Single sign-in with Google and non-custodial signing wallet
-- Solana  SDK: Integration Solana Wallet Connect with
-
-### Present Limitations/Known Issues
-
-- Some features currently disabled on devnet:
-  - Friend Investing System
-  - Fiat payment for listing purchases
-  - API endpoint are more strightforward approach compare to live version
-
----
-
-# Arcx API Local Development
-
-To deploy Arcx API locally, you will need to set up the following:
-
-- Anchor (isntallation instructions [here](https://www.anchor-lang.com/docs/installation))
-
-## API / Frontend setup
-
-- Install Node.js LTS [here](https://nodejs.org/en/download/)
-
-### Install Dependencies
-
-- run `npm install` in the `app` directory
-
-### Set up Environment
-
-- run `npm run dev` in the `app` directory
-
-
-In a terminal in the project directory run `npm install`
-
-run `npm run dev` 
 
 
 
