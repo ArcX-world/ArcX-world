@@ -1,13 +1,13 @@
-# 2024 Solana Arcx-world
+#Arcx
 
-ArcX has a highly experienced Mobile Gaming Team with over a Billion Career Downloads. We have built a simple solution that turns web2 player mobile player accounts in games into a tradable asset class.
+ArcX is the first product to integrate physical arcade games using blockchain technology, aiming to create the next generation of arcade culture and provide players in the Web3 metaverse with real-world experiences.
 
 #### Resources
 
-- [Pitch deck](https://docs.google.com/presentation/d/1nGRIPEUTpERnzE5WNn95bWHq73vU1VmCBo0sCPD525I/edit?usp=sharing)
+- [Pitch deck]()
 - [Android APK Download] - in submission
-- [Sync HomePage](https://sync.studio/)
-- [Sync Twitter](https://twitter.com/SyncStudio_)
+- [Sync HomePage]()
+- [Sync Twitter](_)
 
 #### Summary of Submission Features
 
