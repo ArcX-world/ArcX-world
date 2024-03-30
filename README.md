@@ -59,15 +59,5 @@ In a terminal in the project directory run `npm install`
 
 run `npm run dev` 
 
-### Test the programs
-
-You must have run the setup steps already.
-
-- To Start Solana Validator with Metaplex and Anchor programs: you will need [@metaplex/js](https://github.com/metaplex-foundation/js), clone the repo and run `yarn` && `yarn amman:start` in the repo root directory.
-
-- Set the url to the local validator in the `.env` file.
-- run `anchor test` in the sync app `root` directory
-
-### Program Info
 
 
