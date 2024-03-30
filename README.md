@@ -57,9 +57,7 @@ To deploy Sync API locally, you will need to set up the following:
 
 In a terminal in the project directory run `npm install`
 
-- Set environment variables, `MARKETPLACE_PROGRAM_ID`, `MINTER_PROGRAM_ID`,`MARKETPLACE_ADDRESS`, `MARKETPLACE_AUTHORITY`.
-- Set `DATABASE_URL` to the address of the local or remote database.
-- Set `SECRET_KEY` for server wallet operations.
+run `npm run dev` 
 
 ### Test the programs
 
