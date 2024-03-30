@@ -41,7 +41,6 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 To deploy Sync API locally, you will need to set up the following:
 
 - Anchor (isntallation instructions [here](https://www.anchor-lang.com/docs/installation))
--
 
 ## API / Frontend setup
 
