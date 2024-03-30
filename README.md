@@ -19,7 +19,6 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 #### Tech Stack
 
-- Anchor: [Marketplace program](./programs/sync-marketplace/) Manage game progress listing and store listing PDAs
 - Anchor: [Collection NFT](./programs/sync-nft) Customise NFT program for easy integration for any game
   - TypeScript: [Main API](./app/src/app/api/) Centerpiece for games interacting with the Solana blockchain
 - Web3 Auth SDK: Single sign-in with Google and non-custodial signing wallet
