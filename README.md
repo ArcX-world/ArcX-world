@@ -5,8 +5,8 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 #### Resources
 
 - [Android APK Download] - in submission
-- [Sync HomePage](http://arcx.world/)
-- [Sync Twitter](https://twitter.com/ArcX_games)
+- [HomePage](http://arcx.world/)
+- [Twitter](https://twitter.com/ArcX_games)
 
 #### Summary of Submission Features
 
@@ -19,7 +19,7 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 #### Tech Stack
 
-- Anchor: [Collection NFT](./programs/sync-nft) Customise NFT program for easy integration for any game
+- Anchor: [Collection NFT](./programs/Arcx-nft) Customise NFT program for easy integration for any game
   - TypeScript: [Main API](./app/src/app/api/) Centerpiece for games interacting with the Solana blockchain
 - Web3 Auth SDK: Single sign-in with Google and non-custodial signing wallet
 - Solana Unity SDK: Integration Solana Wallet Connect with Unity games
@@ -36,9 +36,9 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 ---
 
-# Sync API Local Development
+# Arcx API Local Development
 
-To deploy Sync API locally, you will need to set up the following:
+To deploy Arcx API locally, you will need to set up the following:
 
 - Anchor (isntallation instructions [here](https://www.anchor-lang.com/docs/installation))
 
