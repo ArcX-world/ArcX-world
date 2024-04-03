@@ -1,4 +1,4 @@
-# Arcx
+# ArcX
 
 ArcX is the first product to integrate physical arcade games using blockchain technology, aiming to create the next generation of arcade culture and provide players in the Web3 metaverse with real-world experiences.
 
