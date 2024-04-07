@@ -2,15 +2,17 @@
 
 ArcX is the first product to integrate physical arcade games using blockchain technology, aiming to create the next generation of arcade culture and provide players in the Web3 metaverse with real-world experiences.
 
-#### Resources
-
-- [Android APK Download] - in submission
-- [Game demo](https://arcxweb.arcx.world/) - in submission
+#### Game Demo
+- [Demo Test instructions](https://github.com/ArcX-world/ArcX-world/blob/main/demo/Demo%20Test%20Instructions.pdf)
+- [Android] - in submission
+- [iOS]：in submission
+- [Web]：in submission
+- [Download from Google Drive](https://drive.google.com/drive/folders/1_61-EDcuxQUjAdbQJt6ZdtVho9Xpz95o?usp=drive_link)
+  
+#### Project Information 
 - [Official Website](http://arcx.world/)
 - [Twitter](https://twitter.com/ArcX_games)
-- [Deck](https://github.com/ArcX-world/ArcX-world/blob/main/demo/ArcX-EN.pdf)
-- [Demo Test instructions](https://github.com/ArcX-world/ArcX-world/blob/main/demo/Demo%20Test%20Instructions.pdf)
-
+- [ArcX_Deck](https://github.com/ArcX-world/ArcX-world/blob/main/demo/ArcX-EN.pdf)
 
 #### Summary of Submission Features
 
