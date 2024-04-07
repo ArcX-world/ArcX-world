@@ -9,7 +9,7 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 - [Official Website](http://arcx.world/)
 - [Twitter](https://twitter.com/ArcX_games)
 - [Deck](https://github.com/ArcX-world/ArcX-world/blob/main/ArcX-EN.pdf)
-- [Demo usage instructions](https://github.com/ArcX-world/ArcX-world/blob/main/Demo%20usage%20instructions.docx)
+- [Demo test instructions](https://github.com/ArcX-world/ArcX-world/blob/main/Demo%20usage%20instructions.docx)
 
 
 #### Summary of Submission Features
