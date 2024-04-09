@@ -29,7 +29,6 @@ ArcX is the first product to integrate physical arcade games using blockchain te
 
 #### Our next development
 
-- NFT is paired with a real machine and registered on the solana chain
 - In-game NFT Market
 - Crypto wallet access
 - Game props are designed as NFT
