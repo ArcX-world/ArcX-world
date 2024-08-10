@@ -1,42 +1,15 @@
 # ArcX
 
-ArcX is the first product to integrate physical arcade games using blockchain technology, aiming to create the next generation of arcade culture and provide players in the Web3 metaverse with real-world experiences.
-
-#### Game Demo
-- [Android](https://drive.google.com/drive/folders/1_61-EDcuxQUjAdbQJt6ZdtVho9Xpz95o?usp=drive_link)
-- [iOS]：in submission
-- [Web Demo](https://arcxweb.arcx.world/)
-- [Demo Test Instructions](https://drive.google.com/drive/folders/1_61-EDcuxQUjAdbQJt6ZdtVho9Xpz95o?usp=drive_link)
-  
-#### Project Information 
-- [Official Website](http://arcx.world/)
-- [Twitter](https://twitter.com/ArcX_games)
-- [ArcX_Deck](https://drive.google.com/drive/folders/1_61-EDcuxQUjAdbQJt6ZdtVho9Xpz95o?usp=drive_link)
-
-#### Summary of Submission Features
-
-- Game demo
-- Project Introduction
-- Partial development code
-- Game recording
-
-#### Current Demo Version
-
-- Complete most of the UI design
-- Basic game flow
-- Some game animations and music
-- Formwork machine manufacturing and erection
-
-#### Our next development
-
-- In-game NFT Market
-- Crypto wallet access
-- Game props are designed as NFT
-- More gameplay development
+## Introduction
+ArcX is the world's first metaverse ecosystem project to integrate physical arcade machines into Web3. Players can remotely control and play real-world arcade machines through live streaming, using just their smartphones, VR headset or computers. We are breaking down the barriers between virtual and physical gaming, creating a seamless and immersive experience for everyone.
 
 
+# Deployed Contracts
 
+### BSC BNB Testnet Deployment
 
-
-
+| Contract Name  | Address                                    | Purpose                                   |
+|----------------|--------------------------------------------|-------------------------------------------|
+| ARCX AXC TEST  | [0xCC2a82a7a4cf63cEAC2ca73170f4115196690D83](https://opbnb-testnet.bscscan.com/address/0xCC2a82a7a4cf63cEAC2ca73170f4115196690D83) | ERC-20 contract for use as our test token.|
+| Rocker NFT     | [0xD5cC51EEd4bE7DA51d9D11eCE6d007883B3C93EA](https://opbnb-testnet.bscscan.com/address/0xD5cC51EEd4bE7DA51d9D11eCE6d007883B3C93EA) | BEP-721 contract for minting NFTs.        |
 
